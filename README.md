@@ -34,7 +34,7 @@ Players take turns clicking on the empty boxes, placing "X" and "O" signs.
 The game ends when one player arranges three of his marks in a line (horizontal, vertical or diagonal), or when the board is full and there is no winner (tie).
 When the game is over, you can reset it by clicking the "Restart Game" button.
 
-======================================================================================================================================================
+==================================================================================================================================
 
 PL
 
