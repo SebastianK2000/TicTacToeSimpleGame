@@ -5,8 +5,6 @@
 ![image](https://github.com/SebastianK2000/TicTacToeSimpleGame/assets/127401994/d2097343-f578-491c-a314-662ca42bf827)
 
 
-
-
 ENG
 
 A simple tic-tac-toe (TicTacToe) game written in HTML, CSS and JavaScript. This application allows the user to compete against another person by alternately placing "X" and "O" signs on a game board. The game is won when either player places three of their signs in a line (horizontal, vertical or diagonal) or tied when the game board is full and there is no winner.
